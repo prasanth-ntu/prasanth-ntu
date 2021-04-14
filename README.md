@@ -23,7 +23,8 @@ class Prasanth(Human):
             "concepts": {
                 "Machine Learning": ['Linear & Logistic Regression', 'SVM', 'KNN', 'Decision Trees', 'Gradient Boosting', 'MLP', 'Ensemble', ...], 
                 "Deep Learning": ['CNN', 'RNN'], 
-                "Signal Processing": ['Spectral', 'FFT', 'Wavelets', 'STFT', 'Stockwell'],
+                "Signal Processing": ['Spectral', 'FFT', 'Wavelets', 'STFT', 'Stockwell']
+                }
             "systems": ["classification", "regression", "clustering", "recommendation", "object-recognition", "nlp"]
         },
         "research_expertise": ["Brain signals", "EEG", "Epilepsy", "Automated Detection", "MedTech"], 
