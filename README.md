@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Prasanth Thangavel! <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif" width="230">
-<p><em>Freelance Data Scientist | AI/ML PhD Scholar at <a href="https://www.ntu.eedu.sg">NTU</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="30">
+<p><em>Freelance Data Scientist at <a href="https://generalassemb.ly/">GA</a> | AI/ML PhD Scholar at <a href="https://www.ntu.edu.sg">NTU</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: prasanthntu](https://img.shields.io/badge/-prasanthntu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanthntu/)](https://www.linkedin.com/in/prasanthntu/)
