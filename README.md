@@ -22,7 +22,7 @@ class Prasanth(Human):
             "tools": ["tensorflow", "keras",  "sklearn", "scipy", "nltk", "numpy", "pandas", "matplotlib", "seaborn", "opencv", ...],
             "concepts": ["Deep Learning", "Signal Processing"],
         },
-        "research_expertise": ["Brain signals", "EEG", "Epilepsy", "MedTech"], 
+        "research_expertise": ["Brain signals", "EEG", "Epilepsy", "Automated Detection", "MedTech"], 
         "web": {
             "back_end": {
                 "python": ["flask", "django", "dash"],
