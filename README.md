@@ -22,6 +22,7 @@ class Prasanth(Human):
             "tools": ["tensorflow", "keras",  "sklearn", "scipy", "nltk", "numpy", "pandas", "matplotlib", "seaborn", "opencv", ...],
             "concepts": ["Deep Learning", "Signal Processing"],
         },
+        "research_expertise": ["Brain signals", "EEG", "Epilepsy", "MedTech"], 
         "web": {
             "back_end": {
                 "python": ["flask", "django", "dash"],
@@ -35,9 +36,10 @@ class Prasanth(Human):
 if __name__ == "__main__":
     from time import sleep
 
-    from kitchen import coffee
+    from kitchen import yogurt, water, snacks
     import laptop
     import work
+    from random import choice
 
     andy = Andy()
 
@@ -45,8 +47,9 @@ if __name__ == "__main__":
         sleep(8 * 60 * 60)
         workload = work.get_daily_workload()
         while len(workload) > 0:
-            coffee(andy)
-            laptop.code(andy)
-```
+            choice (yogurt(prasanth), water(prasanth), snacks(prasanth))
+            laptop.code(prasanth)
+            
+```         
 
 ---
