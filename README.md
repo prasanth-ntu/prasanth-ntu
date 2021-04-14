@@ -27,7 +27,7 @@ class Prasanth(Human):
                 "python": ["flask", "django", "dash"],
             },
         }
-        "dev_ops": ["AWS", "],
+        "dev_ops": ["AWS"],
         "databases": ["PostgreSQL", "MySql", "sqlite"],
     }
 
