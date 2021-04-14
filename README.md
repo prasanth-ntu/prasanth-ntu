@@ -5,7 +5,7 @@
 <p><em>Freelance Data Scientist | AI/ML PhD Scholar at <a href="https://www.ntu.eedu.sg">NTU</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: prasanthntu](https://img.shields.io/badge/-achallis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanthntu/)](https://www.linkedin.com/in/prasanthntu/)
+[![Linkedin: prasanthntu](https://img.shields.io/badge/-prasanthntu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanthntu/)](https://www.linkedin.com/in/prasanthntu/)
 [![GitHub prasanth-ntu](https://img.shields.io/github/followers/prasanth-ntu?label=follow&style=social)](https://github.com/prasanth-ntu)
 
 ### <img src="https://media.giphy.com/media/5QQpfPOJEnkeK7tTBr/giphy.gif" width="50"> A little more about me...  
