@@ -40,11 +40,11 @@ class Prasanth(Human):
 
 if __name__ == "__main__":
     from time import sleep
+    from random import choice
 
     from kitchen import yogurt, water, snacks
     import laptop
     import work
-    from random import choice
 
     andy = Andy()
 
