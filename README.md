@@ -12,28 +12,23 @@
 
 ```python
 
-class Andy(Human):
+class Prasanth(Human):
     pronouns = ("He", "Him")
-    code = ["Python🐍", "R", "Javascript", "Go", "Swift", "Shell", "SQL", "HTML", "CSS"]
-    ide = ("vscode")
+    code = ["Python🐍", "R", "SQL", "HTML", "CSS", "Matlab", "LabView"]
+    ide = ("atom", "jupyter-notebook", "notepad++", "vscode")
 
     technologies = {
         "data_science": {
-            "tools": ["tensorflow", "keras", "opencv", "sklearn", "spacy", "nltk", "numpy", "pandas", ...],
-            "concepts": ["Image Processing", "Natural Language Processing"],
+            "tools": ["tensorflow", "keras",  "sklearn", "scipy", "nltk", "numpy", "pandas", "matplotlib", "seaborn", "opencv", ...],
+            "concepts": ["Deep Learning", "Signal Processing"],
         },
         "web": {
-            "front_end": {
-                "js": ["React"],
-                "css": ["materialize", "bootstrap"]
-            },
             "back_end": {
-                "python": ["flask", "flask_restx", "fastapi", "django", "dash"],
-                "js": ["node"],
+                "python": ["flask", "django", "dash"],
             },
         }
-        "dev_ops": ["AWS", "GCP", "Docker🐳", "Kubernettes"],
-        "databases": ["PostgreSQL", "MySql", "Elastic", "Hive", "sqlite"],
+        "dev_ops": ["AWS", "],
+        "databases": ["PostgreSQL", "MySql", "sqlite"],
     }
 
 
