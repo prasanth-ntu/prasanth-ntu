@@ -27,7 +27,7 @@ class Prasanth(Human):
                 }
             "systems": ["classification", "regression", "clustering", "recommendation", "object-recognition", "nlp"]
         },
-        "research_expertise": ["Brain signals", "EEG", "Epilepsy", "Automated Detection", "MedTech"], 
+        "research_expertise": ["Brain signals", "EEG", "Epilepsy", "Automated Detection", "MedTech", "Data Aalaytics", ], 
         "web": {
             "back_end": {
                 "python": ["flask", "django", "dash"],
@@ -46,7 +46,7 @@ if __name__ == "__main__":
     import laptop
     import work
 
-    andy = Andy()
+    prasanth = Prasanth()
 
     while True:
         sleep(8 * 60 * 60)
