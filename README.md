@@ -1,5 +1,3 @@
-
-
 <h2> Hi, I'm Prasanth Thangavel! <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif" width="230">
 <p><em>Senior Data Scientist at <a href="https://www.grab.com/">Grab</a> | Freelance Data Scientist at <a href="https://generalassemb.ly/">GA</a> | AI/ML PhD Scholar at <a href="https://www.ntu.edu.sg">NTU</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="30">
@@ -14,27 +12,27 @@
 
 class Prasanth(Human):
     pronouns = ("He", "Him")
-    code = ["Python🐍", "R", "SQL", "HTML", "CSS", "Matlab", "LabView"]
-    ide = ("atom", "jupyter-notebook", "notepad++", "vscode")
+    code = ["Python🐍", "R", "SQL", "HTML", "CSS", "Matlab", "LabView", "Go"]
+    ide = ("atom", "jupyter-notebook", "notepad++", "vscode", "Goland")
 
     technologies = {
         "data_science": {
-            "tools": ["tensorflow", "keras",  "sklearn", "scipy", "nltk", "numpy", "pandas", "matplotlib", "seaborn", "opencv", ...],
+            "tools": ["tensorflow", "keras",  "sklearn", "scipy", "nltk", "numpy", "pandas", "matplotlib", "seaborn", "opencv", "GPT", ...],
             "concepts": {
                 "Machine Learning": ['Linear & Logistic Regression', 'SVM', 'KNN', 'Decision Trees', 'Gradient Boosting', 'MLP', 'Ensemble', ...], 
-                "Deep Learning": ['CNN', 'RNN'], 
+                "Deep Learning": ['CNN', 'RNN', 'GPT'], 
                 "Signal Processing": ['Spectral', 'FFT', 'Wavelets', 'STFT', 'Stockwell']
                 }
             "systems": ["classification", "regression", "clustering", "recommendation", "object-recognition", "nlp"]
         },
-        "research_expertise": ["Brain signals", "EEG", "Epilepsy", "Automated Detection", "MedTech", "Data Aalaytics", ], 
+        "research_expertise": ["Brain signals", "EEG", "Epilepsy", "Automated Detection", "MedTech", "Data Analytics", "Dynamic Pricing", "Fraud Detection"], 
         "web": {
             "back_end": {
                 "python": ["flask", "django", "dash"],
             },
         }
-        "dev_ops": ["AWS"],
-        "databases": ["PostgreSQL", "MySql", "sqlite"],
+        "dev_ops": ["AWS", "Apache Spark", "Airflow"],
+        "databases": ["PostgreSQL", "MySql", "sqlite", "Datalake", "DataWarehouse"],
     }
 
 
@@ -43,6 +41,7 @@ if __name__ == "__main__":
     from random import choice
 
     from kitchen import yogurt, water, snacks
+    from fitness import hiit, strength_training, jogging, walking, hiking
     import laptop
     import work
 
@@ -52,9 +51,7 @@ if __name__ == "__main__":
         sleep(8 * 60 * 60)
         workload = work.get_daily_workload()
         while len(workload) > 0:
-            choice (yogurt(prasanth), water(prasanth), snacks(prasanth))
+            choice(yogurt(prasanth), water(prasanth), snacks(prasanth), fruits(prasanth))
             laptop.code(prasanth)
+            choice(hiit(prasanth), strength_training(prasanth), jogging(prasanth), walking(prasanth), hiking(prasanth)
             
-```         
-
----
