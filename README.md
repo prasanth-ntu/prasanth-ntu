@@ -17,7 +17,8 @@ class Prasanth(Human):
 
     technologies = {
         "data_science": {
-            "tools": ["tensorflow", "keras",  "sklearn", "scipy", "nltk", "numpy", "pandas", "matplotlib", "seaborn", "opencv", "GPT", ...],
+            "tools": ["tensorflow", "keras",  "sklearn", "scipy", "nltk", "numpy", "pandas", "matplotlib",
+                "seaborn", "opencv", "GPT", ...],
             "concepts": {
                 "Machine Learning": ['Linear & Logistic Regression', 'SVM', 'KNN', 'Decision Trees', 'Gradient Boosting', 'MLP', 'Ensemble', ...], 
                 "Deep Learning": ['CNN', 'RNN', 'GPT'], 
@@ -25,7 +26,8 @@ class Prasanth(Human):
                 }
             "systems": ["classification", "regression", "clustering", "recommendation", "object-recognition", "nlp"]
         },
-        "research_expertise": ["Brain signals", "EEG", "Epilepsy", "Automated Detection", "MedTech", "Data Analytics", "Dynamic Pricing", "Fraud Detection"], 
+        "expertise": ["Brain signals", "EEG", "Epilepsy", "Automated Detection", "MedTech", "Data Analytics",
+            "Dynamic Pricing", "Fraud Detection", "User Engagement", ...], 
         "web": {
             "back_end": {
                 "python": ["flask", "django", "dash"],
