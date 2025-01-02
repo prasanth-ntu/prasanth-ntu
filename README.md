@@ -3,6 +3,7 @@
 <p><em>Senior Data Scientist at <a href="https://www.grab.com/">Grab</a> | Freelance Data Scientist at <a href="https://generalassemb.ly/">GA</a> | AI/ML PhD Scholar at <a href="https://www.ntu.edu.sg">NTU</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="30">
 </em></p>
 
+[![Blog prasanth.io](https://img.shields.io/badge/Blog-prasanth.io-blue?style=flat-square&logoColor=white&link=https://www.prasanth.io)](https://prasanth.io)
 [![Linkedin: prasanthntu](https://img.shields.io/badge/-prasanthntu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasanthntu/)](https://www.linkedin.com/in/prasanthntu/)
 [![GitHub prasanth-ntu](https://img.shields.io/github/followers/prasanth-ntu?label=follow&style=social)](https://github.com/prasanth-ntu)
 
