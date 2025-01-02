@@ -44,7 +44,7 @@ if __name__ == "__main__":
     from random import choice
 
     from kitchen import yogurt, water, snacks
-    from fitness import hiit, strength_training, jogging, walking, hiking
+    from fitness import hiit, strength_training, jogging, walking, hiking, reading
     import laptop
     import work
 
@@ -56,5 +56,5 @@ if __name__ == "__main__":
         while len(workload) > 0:
             choice(yogurt(prasanth), water(prasanth), snacks(prasanth), fruits(prasanth))
             laptop.code(prasanth)
-            choice(hiit(prasanth), strength_training(prasanth), jogging(prasanth), walking(prasanth), hiking(prasanth)
+            choice(hiit(prasanth), strength_training(prasanth), jogging(prasanth), walking(prasanth), hiking(prasanth), reading(prasanth))
             
